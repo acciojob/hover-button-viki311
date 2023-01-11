@@ -7,6 +7,7 @@
 }
 #btn:hover{
 	background:yellow;
+	border:0;
 	colo:black;
 	border-radius:30px;
 }
